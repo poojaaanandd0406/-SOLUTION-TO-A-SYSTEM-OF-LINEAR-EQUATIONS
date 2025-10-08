@@ -13,10 +13,12 @@ Prepare the lists from each linear equations and assign in np.array()
 Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
-## Program:<img width="708" height="230" alt="image" src="https://github.com/user-attachments/assets/d93d2951-4e4c-4cbc-a250-ccdb0053c245" />
+## Program:<img width="660" height="211" alt="image" src="https://github.com/user-attachments/assets/4bfdc469-2c86-4461-a6cb-3e6b76b6d762" />
 
 
-## Output:<img width="555" height="175" alt="image" src="https://github.com/user-attachments/assets/6dc72507-3cc0-4072-8f30-aa799a1e2b9e" />
+
+## Output:<img width="555" height="175" alt="image" src="https://github.com/user-attachments/assets/01cdf2ea-f40e-4225-a323-29b5e3883868" />
+
 
 
 ## Result: 
